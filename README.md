@@ -45,12 +45,18 @@ Full reputation audit delivered to your inbox.
 
 Infrastructure cost: $0/month.
 
-## Related
-
-- [ContentBase](https://contentbase-crw.pages.dev) — Etsy listing optimizer
-- [ShopScan](https://shopscan-eff.pages.dev) — Full Etsy shop audit
-- [HostAI](https://hostai.pages.dev) — Airbnb listing optimizer
-
 ---
 
 *Part of the BaseAI suite — AI tools for local businesses.*
+
+## Other BaseAI Tools
+
+- [ReviewReply](https://reviewreply.pages.dev) — AI replies to Google/TripAdvisor/Airbnb reviews
+- [HostAI](https://hostai.pages.dev) — Airbnb/STR listing optimizer
+- [ContentBase](https://contentbase-crw.pages.dev) — Etsy/Shopify listing optimizer
+- [ProposalAI](https://proposalai-app.pages.dev) — Freelance proposal generator
+- [JobPostAI](https://jobpostai-app.pages.dev) — Job posting writer
+- [InvoiceChaser](https://invoicechaser-app.pages.dev) — Invoice payment reminder generator
+- [RepurposeAI](https://repurposeai-v2.pages.dev) — Turn one piece of content into 10
+
+All free to start, no signup. Full suite at [baseaitools.com](https://baseaitools.com).
